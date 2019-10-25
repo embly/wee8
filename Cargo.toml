@@ -1,0 +1,8 @@
+[package]
+name = "wee8"
+version = "0.0.1"
+description = "v8's wee8 rust bindings"
+authors = ["maxmcd <m@xmcd.me>"]
+edition = "2018"
+
+[dependencies]
